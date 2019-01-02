@@ -27,3 +27,5 @@ Substitute ios for android if not on a Mac.
 # KOGINSCREEN
 
 https://www.youtube.com/watch?v=SXXHA4tVdDA
+
+https://www.youtube.com/watch?v=pPU-6StZj3g
